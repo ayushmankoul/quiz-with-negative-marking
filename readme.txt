@@ -35,6 +35,7 @@ A powerful and beautiful quiz plugin for WordPress.
 * Preview-function
 * Statistics
 * Leaderboard
+* negative marking
 * Quiz requirements
 * Hints
 * Custom fields
